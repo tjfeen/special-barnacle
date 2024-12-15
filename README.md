@@ -12,4 +12,4 @@ The research question of this paper is: how does language used by authors from d
 Hypothesis: works of writers from a less fortunate socioeconomic background have a lower text complexity (shorter words, shorter sentences, less adjectives), compared to works from upper-class authors.
 
 ## Method
-For this project, the database of Project Gutenberg will be used. The middle-class authors will be represented by Mark Twain, and the upper-class authors by Oscar Wilde.
+For this project, the database of Project Gutenberg will be used. The middle-class authors will be represented by Mark Twain, and the upper-class authors by Oscar Wilde. A script written in Python that determines the complexity of a given text will be used.
