@@ -1,5 +1,4 @@
-# special-barnacle
-Introduction to Research Methods, assignment 5
+# Introduction to Research Methods, assignment 5
 
 ## Abstract
 This report will be about the difference in language used by authors from different socioeconomic backgrounds, specifically middle-class (Mark Twain) and upper-class authors (Oscar Wilde).
